@@ -23,7 +23,16 @@
         ]
       },
       {
-        "language": "en"
+        "language": "en",
+        "tabs": [
+          {
+            "tab": "Terms of use",
+            "pages": [
+              "en/terms-of-use/untitled-page",
+              "en/terms-of-use/terms-of-use"
+            ]
+          }
+        ]
       }
     ]
   },

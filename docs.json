@@ -9,13 +9,21 @@
   },
   "favicon": "/images/看看.png",
   "navigation": {
-    "tabs": [
+    "languages": [
       {
-        "tab": "使用协议",
-        "pages": [
-          "untitled-page",
-          "index"
+        "language": "cn",
+        "tabs": [
+          {
+            "tab": "使用协议",
+            "pages": [
+              "privacy_policy",
+              "index"
+            ]
+          }
         ]
+      },
+      {
+        "language": "en"
       }
     ]
   },

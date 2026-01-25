@@ -16,8 +16,8 @@
           {
             "tab": "使用协议",
             "pages": [
-              "privacy_policy",
-              "index"
+              "ch_privacy",
+              "ch_terms"
             ]
           }
         ]
@@ -26,10 +26,10 @@
         "language": "en",
         "tabs": [
           {
-            "tab": "使用协议",
+            "tab": "Terms of Use",
             "pages": [
-              "privacy_policy-copied-1",
-              "index-copied-1"
+              "en_privacy",
+              "en_terms"
             ]
           }
         ]
